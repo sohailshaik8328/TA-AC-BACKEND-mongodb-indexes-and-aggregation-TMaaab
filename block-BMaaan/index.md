@@ -4,6 +4,8 @@ Q1. Design database model using mongoose to replicate data structure of `STACK O
 
 Stack Overflow consists of
 
+
+
 - Users
 - Questions
 - Answers
